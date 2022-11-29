@@ -13,7 +13,8 @@ Objetivo do projeto: Estruturar uma aplicação web fullstack, dockerizada, cujo
 - Abra o projeto e rode o terminal;
 - Com o Docker aberto, digite o comando: ``` yarn ```
 - Depois o comando: ``` yarn up ```
-- E por fim, use um API CLient de sua preferência para consumir a API (Eu costumo usar o POSTMAN).
+- E por fim, use um API CLient de sua preferência para consumir a API (Eu costumo usar o POSTMAN), ou então usar a segunda parte deste projeto em Frontend que se encontra no seguinte link:
+- https://github.com/Adernam/ngcash-frontend
 
 ## Meta
 Adernam Ferris Bauli - @Adernam
