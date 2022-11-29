@@ -19,8 +19,7 @@ services:
     restart: always
     depends_on:
       - 'db'
-    # command: ash -c "yarn install --production && yarn start"
-    command: ash -c "yarn start"
+    command: ash -c "yarn install --production && yarn start"
     volumes:
       - ./build:/home/node/app/build/
       - ./.env:/home/node/app/.env
